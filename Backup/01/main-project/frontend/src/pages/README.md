@@ -1,0 +1,1 @@
+Pages (Home, Product, Checkout, etc.)

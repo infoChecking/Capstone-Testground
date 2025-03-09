@@ -1,0 +1,1 @@
+Routes management for different pages (e.g., dashboardRoute, productsRoute)

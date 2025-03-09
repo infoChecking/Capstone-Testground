@@ -1,0 +1,1 @@
+Reusable component (e.g., Button, Navbar)

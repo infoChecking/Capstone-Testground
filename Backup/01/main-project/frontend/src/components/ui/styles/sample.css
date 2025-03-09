@@ -1,0 +1,24 @@
+.btn {
+    background-color: rgb(170, 170, 170);
+    color: white;
+}
+.btn:hover {
+    transform: scale(1.05);
+    transition: all .5s ease-out;
+}
+.container {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    max-width: 700px;
+    min-width: 574px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+}
+h1 {
+    color: rgb(133, 133, 133);
+}

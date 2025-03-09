@@ -1,0 +1,1 @@
+Layout components (e.g., Header, Footer)
